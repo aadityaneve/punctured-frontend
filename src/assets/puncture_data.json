@@ -1,0 +1,402 @@
+[
+    {
+        "shop_name": "Ventosanzap",
+        "offering": "Free Washing",
+        "location": "Hyderabad",
+        "rating": 1.2,
+        "online_payment": "Yes",
+        "discount": 36
+    },
+    {
+        "shop_name": "Bitwolf",
+        "offering": "Free Oiling",
+        "location": "Delhi",
+        "rating": 3.6,
+        "online_payment": "No",
+        "discount": 50
+    },
+    {
+        "shop_name": "Domainer",
+        "offering": "Free Washing",
+        "location": "Hyderabad",
+        "rating": 1.4,
+        "online_payment": "No",
+        "discount": 19
+    },
+    {
+        "shop_name": "Zoolab",
+        "offering": "Free Washing",
+        "location": "Pune",
+        "rating": 3.4,
+        "online_payment": "No",
+        "discount": 11
+    },
+    {
+        "shop_name": "Sonair",
+        "offering": "Free Oiling",
+        "location": "Delhi",
+        "rating": 3.3,
+        "online_payment": "Yes",
+        "discount": 33
+    },
+    {
+        "shop_name": "Stronghold",
+        "offering": "Free Oiling",
+        "location": "Hyderabad",
+        "rating": 1.8,
+        "online_payment": "No",
+        "discount": 20
+    },
+    {
+        "shop_name": "Tin",
+        "offering": "Free Oiling",
+        "location": "Mumbai",
+        "rating": 4.2,
+        "online_payment": "No",
+        "discount": 25
+    },
+    {
+        "shop_name": "Zaam-Dox",
+        "offering": "Free Washing",
+        "location": "Bangalore",
+        "rating": 3.8,
+        "online_payment": "No",
+        "discount": 31
+    },
+    {
+        "shop_name": "Bigtax",
+        "offering": "Free Washing",
+        "location": "Delhi",
+        "rating": 3.8,
+        "online_payment": "Yes",
+        "discount": 23
+    },
+    {
+        "shop_name": "Holdlamis",
+        "offering": "Free Oiling",
+        "location": "Bangalore",
+        "rating": 2.7,
+        "online_payment": "No",
+        "discount": 30
+    },
+    {
+        "shop_name": "Job",
+        "offering": "Free Washing",
+        "location": "Bangalore",
+        "rating": 2.0,
+        "online_payment": "Yes",
+        "discount": 30
+    },
+    {
+        "shop_name": "Transcof",
+        "offering": "Free Air Fill",
+        "location": "Mumbai",
+        "rating": 3.0,
+        "online_payment": "No",
+        "discount": 48
+    },
+    {
+        "shop_name": "Sonsing",
+        "offering": "Free Washing",
+        "location": "Pune",
+        "rating": 2.1,
+        "online_payment": "No",
+        "discount": 11
+    },
+    {
+        "shop_name": "Flexidy",
+        "offering": "Free Air Fill",
+        "location": "Bangalore",
+        "rating": 4.5,
+        "online_payment": "Yes",
+        "discount": 15
+    },
+    {
+        "shop_name": "Pannier",
+        "offering": "Free Air Fill",
+        "location": "Mumbai",
+        "rating": 1.6,
+        "online_payment": "Yes",
+        "discount": 27
+    },
+    {
+        "shop_name": "Zontrax",
+        "offering": "Free Air Fill",
+        "location": "Bangalore",
+        "rating": 2.5,
+        "online_payment": "Yes",
+        "discount": 31
+    },
+    {
+        "shop_name": "Zontrax",
+        "offering": "Free Washing",
+        "location": "Bangalore",
+        "rating": 2.8,
+        "online_payment": "Yes",
+        "discount": 8
+    },
+    {
+        "shop_name": "Flowdesk",
+        "offering": "Free Washing",
+        "location": "Delhi",
+        "rating": 2.5,
+        "online_payment": "No",
+        "discount": 8
+    },
+    {
+        "shop_name": "Tempsoft",
+        "offering": "Free Oiling",
+        "location": "Pune",
+        "rating": 1.1,
+        "online_payment": "Yes",
+        "discount": 8
+    },
+    {
+        "shop_name": "Cardify",
+        "offering": "Free Air Fill",
+        "location": "Pune",
+        "rating": 3.7,
+        "online_payment": "Yes",
+        "discount": 39
+    },
+    {
+        "shop_name": "Pannier",
+        "offering": "Free Washing",
+        "location": "Hyderabad",
+        "rating": 4.5,
+        "online_payment": "Yes",
+        "discount": 24
+    },
+    {
+        "shop_name": "Lotlux",
+        "offering": "Free Washing",
+        "location": "Mumbai",
+        "rating": 4.4,
+        "online_payment": "No",
+        "discount": 21
+    },
+    {
+        "shop_name": "Flexidy",
+        "offering": "Free Air Fill",
+        "location": "Pune",
+        "rating": 4.4,
+        "online_payment": "Yes",
+        "discount": 35
+    },
+    {
+        "shop_name": "Viva",
+        "offering": "Free Air Fill",
+        "location": "Bangalore",
+        "rating": 4.0,
+        "online_payment": "Yes",
+        "discount": 48
+    },
+    {
+        "shop_name": "Konklux",
+        "offering": "Free Oiling",
+        "location": "Delhi",
+        "rating": 1.4,
+        "online_payment": "Yes",
+        "discount": 39
+    },
+    {
+        "shop_name": "Tresom",
+        "offering": "Free Oiling",
+        "location": "Bangalore",
+        "rating": 2.3,
+        "online_payment": "Yes",
+        "discount": 10
+    },
+    {
+        "shop_name": "Alphazap",
+        "offering": "Free Washing",
+        "location": "Hyderabad",
+        "rating": 3.9,
+        "online_payment": "No",
+        "discount": 42
+    },
+    {
+        "shop_name": "Vagram",
+        "offering": "Free Oiling",
+        "location": "Mumbai",
+        "rating": 3.2,
+        "online_payment": "No",
+        "discount": 16
+    },
+    {
+        "shop_name": "Regrant",
+        "offering": "Free Air Fill",
+        "location": "Mumbai",
+        "rating": 1.0,
+        "online_payment": "No",
+        "discount": 45
+    },
+    {
+        "shop_name": "Wrapsafe",
+        "offering": "Free Oiling",
+        "location": "Pune",
+        "rating": 2.0,
+        "online_payment": "No",
+        "discount": 25
+    },
+    {
+        "shop_name": "Fintone",
+        "offering": "Free Air Fill",
+        "location": "Hyderabad",
+        "rating": 2.8,
+        "online_payment": "No",
+        "discount": 20
+    },
+    {
+        "shop_name": "Opela",
+        "offering": "Free Washing",
+        "location": "Mumbai",
+        "rating": 3.6,
+        "online_payment": "No",
+        "discount": 47
+    },
+    {
+        "shop_name": "Tin",
+        "offering": "Free Washing",
+        "location": "Mumbai",
+        "rating": 2.5,
+        "online_payment": "No",
+        "discount": 6
+    },
+    {
+        "shop_name": "Voyatouch",
+        "offering": "Free Washing",
+        "location": "Pune",
+        "rating": 1.2,
+        "online_payment": "No",
+        "discount": 41
+    },
+    {
+        "shop_name": "Andalax",
+        "offering": "Free Air Fill",
+        "location": "Mumbai",
+        "rating": 4.6,
+        "online_payment": "Yes",
+        "discount": 22
+    },
+    {
+        "shop_name": "It",
+        "offering": "Free Oiling",
+        "location": "Mumbai",
+        "rating": 1.6,
+        "online_payment": "No",
+        "discount": 42
+    },
+    {
+        "shop_name": "Regrant",
+        "offering": "Free Air Fill",
+        "location": "Delhi",
+        "rating": 3.2,
+        "online_payment": "Yes",
+        "discount": 47
+    },
+    {
+        "shop_name": "Toughjoyfax",
+        "offering": "Free Washing",
+        "location": "Mumbai",
+        "rating": 2.8,
+        "online_payment": "Yes",
+        "discount": 22
+    },
+    {
+        "shop_name": "Span",
+        "offering": "Free Air Fill",
+        "location": "Mumbai",
+        "rating": 4.6,
+        "online_payment": "Yes",
+        "discount": 13
+    },
+    {
+        "shop_name": "Zamit",
+        "offering": "Free Air Fill",
+        "location": "Mumbai",
+        "rating": 4.5,
+        "online_payment": "No",
+        "discount": 11
+    },
+    {
+        "shop_name": "Hatity",
+        "offering": "Free Washing",
+        "location": "Bangalore",
+        "rating": 4.5,
+        "online_payment": "No",
+        "discount": 39
+    },
+    {
+        "shop_name": "Tampflex",
+        "offering": "Free Oiling",
+        "location": "Hyderabad",
+        "rating": 1.3,
+        "online_payment": "No",
+        "discount": 16
+    },
+    {
+        "shop_name": "Bytecard",
+        "offering": "Free Washing",
+        "location": "Hyderabad",
+        "rating": 4.8,
+        "online_payment": "No",
+        "discount": 10
+    },
+    {
+        "shop_name": "Quo Lux",
+        "offering": "Free Oiling",
+        "location": "Mumbai",
+        "rating": 3.5,
+        "online_payment": "No",
+        "discount": 37
+    },
+    {
+        "shop_name": "Bamity",
+        "offering": "Free Washing",
+        "location": "Mumbai",
+        "rating": 1.8,
+        "online_payment": "Yes",
+        "discount": 49
+    },
+    {
+        "shop_name": "Lotlux",
+        "offering": "Free Washing",
+        "location": "Delhi",
+        "rating": 4.3,
+        "online_payment": "Yes",
+        "discount": 25
+    },
+    {
+        "shop_name": "Ronstring",
+        "offering": "Free Air Fill",
+        "location": "Mumbai",
+        "rating": 1.9,
+        "online_payment": "No",
+        "discount": 6
+    },
+    {
+        "shop_name": "Rank",
+        "offering": "Free Washing",
+        "location": "Hyderabad",
+        "rating": 4.1,
+        "online_payment": "No",
+        "discount": 36
+    },
+    {
+        "shop_name": "Bigtax",
+        "offering": "Free Oiling",
+        "location": "Hyderabad",
+        "rating": 3.2,
+        "online_payment": "No",
+        "discount": 45
+    },
+    {
+        "shop_name": "Trippledex",
+        "offering": "Free Washing",
+        "location": "Mumbai",
+        "rating": 1.0,
+        "online_payment": "Yes",
+        "discount": 17
+    }
+]
